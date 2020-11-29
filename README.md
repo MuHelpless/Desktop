@@ -10,3 +10,6 @@ This WILL NOT:
 - Install or modify any other software outside of selected installation folder.
 - Collect any user information or activity.
 - Read or change any Mu communication with server.
+
+Possible scenario without Switch Scroll:
+![image](taskmanager.jpg)
